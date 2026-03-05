@@ -1,10 +1,12 @@
 📈 Amazon Stock Price Analysis (2015–2025)
 
+
 📊 Project Overview
 
 This project analyzes 10 years of historical stock price data for Amazon from 2015 to 2025.
 The goal is to identify long-term trends, price volatility, and trading patterns to understand the company’s market performance.
 The analysis focuses on price movement, trading volume, and long-term growth trends, helping investors and analysts understand how the stock has evolved over time.
+
 
 🛠️ Tools & Technologies
 
@@ -13,6 +15,7 @@ The analysis focuses on price movement, trading volume, and long-term growth tre
 ● Pivot Tables – Data summarization and aggregation
 
 ● Pivot Charts – Data visualization and trend analysis
+
 
 📂 Dataset Information
 
@@ -34,6 +37,7 @@ Trading Volume
 
 Time Period: 2015 – 2025
 
+
 📊 Key Insights
 
 ● The stock price increased from ~$15 in 2015 to over $228 in 2025, showing strong long-term growth (~1370%).
@@ -43,6 +47,7 @@ Time Period: 2015 – 2025
 ● Trading volume spikes usually align with major market events or earnings announcements.
 
 ● The overall trend shows consistent long-term growth with short-term volatility, which is typical for high-growth technology companies.
+
 
 💡 Business / Investment Insights
 
